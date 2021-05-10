@@ -20,4 +20,4 @@ with open(f"{input_2}.pdf", "wb") as f:
     outputFile.write(f)
 
 if __name__ == "__main__":
-    main()
+    print(f"{input_2}.pdf has been protected by your desired password")
