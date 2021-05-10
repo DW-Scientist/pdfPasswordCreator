@@ -2,7 +2,10 @@
 
 Since securing your pdf is a premium function in adobe I decided to create a short python file which does this for free.
 
-## 1. Colone the repo 
+## Prerequisites:
+You need to have python installed on your local machine.
+
+## 1. Clone the repo 
 `git clone...`
 
 ## 2. Install the requirements 
