@@ -21,4 +21,4 @@ Since securing your pdf is a premium function in adobe I decided to create a sho
 
 If you want to overwrite your pdf file just use the same file name - in this case `test`
 
-## 5. Boom, now your secured pdf file should be displayed in your local repo - open it and type in the password to see the content
+## 5. Boom, now your secured pdf file should be displayed in your local repo - open it and type in the password to see the content - Have Fun!!!
